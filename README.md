@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 11, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Chelsea Beckton)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we utilized the browser object model and the document object within Javascript to increase interactivity within the application that we create with code. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cbeckton.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson we learned about the BOM or Browser Object Model. This model is what holds specification of the objects, properties and methods of the browser.)
+2. (In this lesson we learned how to use the createElement function to create a new element node. Specifically in this lesson we used it to create new figure and imag elements so that the user can view more preview images.)
+3. (In this lesson we also learned how to attach nodes together using the appendChild method. You have to do so by specifying the parent node and the child node within the parenthesis.)
